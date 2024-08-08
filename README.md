@@ -1,3 +1,9 @@
+Name: Gonthina ventaka sai prasanth
+Company: CODETECH IT SOLUTIONS
+ID: CT4AI4397
+Courses: Artifical Intelligence
+Duration: July to August 2024
+Mentor : Neela Santhosh kumar
 Title
 Computer vision task in Images Using Various Methods
 
